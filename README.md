@@ -1,2 +1,2 @@
 # Code
-some code anly for test
+some code only for test
